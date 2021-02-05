@@ -1,0 +1,1 @@
+# Simple monorepo using Next.js and Lerna

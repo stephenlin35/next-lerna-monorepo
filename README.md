@@ -1,1 +1,1 @@
-# Simple monorepo using Next.js and Lerna
+# Simple monorepo setup using Next.js and Lerna
